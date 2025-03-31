@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lottech-dataroom/static/css/main.f28a4125.css",
+    "main.js": "/lottech-dataroom/static/js/main.f81043c2.js",
+    "static/js/977.83766939.chunk.js": "/lottech-dataroom/static/js/977.83766939.chunk.js",
+    "static/js/732.1bf406dd.chunk.js": "/lottech-dataroom/static/js/732.1bf406dd.chunk.js",
+    "static/js/453.22cff391.chunk.js": "/lottech-dataroom/static/js/453.22cff391.chunk.js",
+    "index.html": "/lottech-dataroom/index.html",
+    "main.f28a4125.css.map": "/lottech-dataroom/static/css/main.f28a4125.css.map",
+    "main.f81043c2.js.map": "/lottech-dataroom/static/js/main.f81043c2.js.map",
+    "732.1bf406dd.chunk.js.map": "/lottech-dataroom/static/js/732.1bf406dd.chunk.js.map",
+    "453.22cff391.chunk.js.map": "/lottech-dataroom/static/js/453.22cff391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f28a4125.css",
+    "static/js/main.f81043c2.js"
+  ]
+}
